@@ -16,7 +16,7 @@
               </div>
               <div class="table-responsive">
                 <table class="table table-center table-hover datatable">
-                    <thead class="thead-light">
+                    <thead class="thead-light ">
                         <tr>
                             <th class="text-center">Iterasi</th>
                             <th class="text-center">X<small>r</small></th>
